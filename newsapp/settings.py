@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'reader',
 ]
 
-APIKEY= "e0305cab46ee4e6db343e394dcb43e92"
+APIKEY= "xxxxxxxxxxxxx"  #enter your api key here.
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
